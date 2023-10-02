@@ -10,8 +10,8 @@ Preview of the api in Swagger UI
 
 ## Usage
 
-    git clone git@github.com:mitekk/clar-sagiweizmann.git
-    cd clar-sagiweizmann
+    git clone git@github.com:sagiweizmann/EmployeeAPI.git
+    cd EmployeeAPI
     npm install
     cp .env.example .env
 
